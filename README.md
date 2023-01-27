@@ -7,18 +7,19 @@
 </p>
 
 # Rodrigo Lopes
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist apprentice*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+With over a decade of experience in the tech industry, I've learned a lot and am still eager to learn more and improve my skills. My background in Data centers, Cloud Computing, Web Hosting, and Hybrid cloud environments is a result of a lot of hard work and dedication, but I still have a lot to learn and I enjoy the journey of discovery. I have a proven track record of delivering results through TCO, ROI, and Business Case analysis with a customer-centric approach, that's what makes me a real ninja. Recently, I've been diving into the depths of the dive industry as a training manager for the past 3 years, but now I'm ready to surface and transition into Data Science, leveraging my technical skills and expertise to extract insights from big data like a true treasure hunter. Let's dive into the world of data together!
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+As an aprentice Data Scientist and Master Scuba Diver Trainer I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Dive Industry real problems, I developed a critical thinking and problem-solving skills.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+My credentials include a Graduate in Information Technology Project Management from the Sao Paulo University (USP), an institution of higher education and advanced research rated as one of the top 3 and most prestigious universities in Brazil.
+
+**Background in:** Python, Machine Learning and Cloud Computing.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/rodrigoblopes)
+* [Medium](https://www.medium.com/@rodrigoblopes)
 
 
 ## Projetos:
