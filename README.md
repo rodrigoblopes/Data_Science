@@ -24,7 +24,7 @@ My credentials include a Graduate in Information Technology Project Management f
 
 ## Projects:
 These projects were made for personal purposes:
-* **AAirbnb Data Analysis- Sydney:** https://http://bit.ly/3JqiBma
+* **Airbnb Data Analysis- Sydney:** https://http://bit.ly/3JqiBma
 
 
 ---
